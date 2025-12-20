@@ -1,5 +1,5 @@
 # Praktikum-Week-12
-## ArrayList – Java 
+## ArrayList – Java
 
 ## 📌 Deskripsi
 
